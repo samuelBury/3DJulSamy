@@ -1,0 +1,6 @@
+﻿  core_basic_window.cpp
+C:\Users\samyb\Documents\Esiee\Mathematique pour la 3D\E3FI_2021_2022_Mathématiques3D_Raylib_Projet de base\examples\core\core_basic_window.cpp(111,30): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\samyb\Documents\Esiee\Mathematique pour la 3D\E3FI_2021_2022_Mathématiques3D_Raylib_Projet de base\examples\core\core_basic_window.cpp(111,24): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\samyb\Documents\Esiee\Mathematique pour la 3D\E3FI_2021_2022_Mathématiques3D_Raylib_Projet de base\examples\core\core_basic_window.cpp(112,30): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\samyb\Documents\Esiee\Mathematique pour la 3D\E3FI_2021_2022_Mathématiques3D_Raylib_Projet de base\examples\core\core_basic_window.cpp(112,25): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+  core_basic_window_cpp.vcxproj -> C:\Users\samyb\Documents\Esiee\Mathematique pour la 3D\E3FI_2021_2022_Mathématiques3D_Raylib_Projet de base\projects\VS2019\bin\x64\Debug\core_basic_window_cpp.exe
